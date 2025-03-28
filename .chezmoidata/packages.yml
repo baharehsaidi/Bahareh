@@ -1,0 +1,20 @@
+packages:
+  asdf:
+    plugins:
+      - '1password-cli'
+      - 'golang'
+      - 'helm'
+      - 'helm-docs'
+      - 'kind'
+      - 'kubectl'
+      - 'nodejs'
+      - 'packer'
+      - 'pre-commit'
+      - 'pluto'
+      - 'python'
+      - 'rust'
+      - 'terraform'
+      - 'terraform-docs'
+      - 'tflint'
+      - 'vault'
+      - 'yq'
